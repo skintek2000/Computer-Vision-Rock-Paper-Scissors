@@ -1,2 +1,8 @@
 # Computer-Vision-Rock-Paper-Scissors
-In this lab, you will create an interactive Rock-Paper-Scissors game, in which the user can play with the computer using the camera.
+On a Unix-Based Machine (Mac or Linux)
+Save the Python Script to your Computer.
+Open Terminal.
+In Terminal, Navigate to the Directory containing the Python Script.
+Type python ScriptName.py
+(Be sure to use the Appropriate Script Name.)
+The Script will Run/Launch.
