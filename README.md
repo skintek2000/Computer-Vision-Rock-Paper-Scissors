@@ -1,13 +1,10 @@
 # Computer-Vision-Rock-Paper-Scissors
-On a Unix-Based Machine (Mac or Linux)
-Save the Python Script to your Computer.
-Open Terminal.
-In Terminal, Navigate to the Directory containing the Python Script.
-Type python ScriptName.py
-(Be sure to use the Appropriate Script Name.)
-The Script will Run/Launch.
+Steps you need to take in order to enjoy the game:
+1. Clone the repository
+2. Open Terminal and navigate to the folder "Computer-Vision-Rock-Paper-Scissors"
+3. Type: ```python ScriptName.py```
 
-I used in the code:
-The libraries OpenCV,Numpy,Time and Random
-The Get_prediction function assigns the value of cameras to the prediction.
-While loop and the body of the code.
+
+Notes:
+Beside the code you also need to install some libraries: OpenCV, Numpy, Keras
+You can install all of the above with one command ```pip install opencv-python numpy keras"
