@@ -2,7 +2,7 @@
 Steps you need to take in order to enjoy the game:
 1. Clone the repository
 2. Open Terminal and navigate to the folder "Computer-Vision-Rock-Paper-Scissors"
-3. Type: ```python ScriptName.py```
+3. Type: Python file ``` ScriptName.ipynb```
 
 
 Notes:
